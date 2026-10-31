@@ -1,0 +1,12 @@
+{
+  "name": "حاسبة عدالة المشاوير",
+  "short_name": "عدالة المشاوير",
+  "description": "حاسبة مجانية لربحية رحلات النقل",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080e20",
+  "theme_color": "#080e20",
+  "icons": []
+}
